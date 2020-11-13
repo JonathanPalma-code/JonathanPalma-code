@@ -65,6 +65,8 @@ During my time on working in Hospitality, teamwork was and is an essential part 
 * Strong passion for Video-Games - Guild wars 2, Final Fantasy and Pokemon
 * Cooking - Portuguese and South American recipes
 
+## Web-Portfolio
+
 📫 How to reach me at: http://www.jonathanpalma.co.uk
 
 <!--
