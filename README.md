@@ -67,7 +67,7 @@ During my time on working in Hospitality, teamwork was and is an essential part 
 
 ## Web-Portfolio
 
-📫 How to reach me at: http://www.jonathanpalma.co.uk
+📫 Reach me at: http://www.jonathanpalma.co.uk
 
 <!--
 **JonathanPalma-code/JonathanPalma-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
